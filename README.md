@@ -65,7 +65,7 @@ If you are not already familiar with machine learning, I suggest the following r
 ---
 ## Additional Resources
 
-(forthcoming)
+My introduction to causal inference in general was through Cyrus Samii's PhD level course in 2012, for which the updated version of [slides and other resources are available here](http://cyrussamii.com/?page_id=2580). Bruce Hansen kindly makes his regularly updated Econometrics text [available online free here](https://www.ssc.wisc.edu/~bhansen/econometrics/). Athey and Imbens taught a course on machine learning and econometrics for which [materials are available here (scroll down)](https://www.aeaweb.org/conference/cont-ed/2018-webcasts).
 
 
 
