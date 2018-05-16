@@ -54,12 +54,12 @@ If you are not already familiar with machine learning, I suggest the following r
 
 |   |  Content                                | Materials |
 |---|-----------------------------------------|-----------|
-| 1 | Fundamentals, Assumptions               | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_slides_01_handout.pdf) |
-| 2 | Comparing ML and Econometric Approaches | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_slides_02_handout.pdf) |
-| 3 | ML for Causal Inference I: Identification, double robustness in high-dimensions               |           |
-| 4 | ML for Causal Inference II: IV, effect heterogeneity,  treatment assignment             |           |
-| 5 | Applied Example 1: ML and Measuring Polarization |  |
-| 6 | Applied Example 2: Deep Learning and Texts |  |
+| 1 | Fundamentals, Assumptions               | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_01_handout.pdf) |
+| 2 | Comparing ML and Econometric Approaches | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_02_handout.pdf) |
+| 3 | ML for Causal Inference I: Identification, double robustness in high-dimensions               | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_03_handout.pdf)          |
+| 4 | ML for Causal Inference II: IV, effect heterogeneity, optimal treatment assignments             |           |
+| 5 | Applied Example 1: ML and Measuring Polarization | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_Application_1_handout.pdf) |
+| 6 | Applied Example 2: Deep Learning and Texts | [Slides](https://github.com/aristotle-tek/Machine_Learning_SS/blob/master/slides/ML_SS_Application_2_handout.pdf) |
 | 7 | Applied Examples: Various | |
 
 ---
